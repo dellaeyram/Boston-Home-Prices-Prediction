@@ -2,8 +2,8 @@
 Exploring data with pandas, numpy and pyplot, make predictions with a scikit-learn
 libraries installed:
 
-##*NumPy
-##*matplotlib
+# *NumPy
+# *matplotlib
 # *scikit-learn
 
 Code inputs was made in Jupyter Notebook
@@ -14,9 +14,11 @@ Code is provided in the RealPricing.ipynb notebook file.
 
 
 # Data
-The dataset used in this project is included with the scikit-learn library (sklearn.datasets.load_boston). 
-
+The dataset used in this project is included with the scikit-learn library (sklearn.datasets.load_boston).
+ 
 # Defining variables
+The target variable, 'MEDV', is the variable we seek to predict.
+
         - CRIM     per capita crime rate by town
         - ZN       proportion of residential land zoned for lots over 25,000 sq.ft.
         - INDUS    proportion of non-retail business acres per town
