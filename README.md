@@ -2,9 +2,9 @@
 Exploring data with pandas, numpy and pyplot, make predictions with a scikit-learn
 libraries installed:
 
-# NumPy
-# matplotlib
-# scikit-learn
+# *NumPy
+# *matplotlib
+# *scikit-learn
 
 Code inputs was made in Jupyter Notebook
 
